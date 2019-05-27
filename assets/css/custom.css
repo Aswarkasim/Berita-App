@@ -1,0 +1,59 @@
+/* GLOBAL STYLES
+-------------------------------------------------- */
+/* Padding below the footer and lighter body text */
+
+body {
+  padding: 0px;
+  margin: 0px;
+  color: #5a5a5a;
+  background-color: #eee !important;
+}
+#main-body{
+  background-color: white;
+}
+
+footer{
+  margin: 0px;
+  padding: 0px;
+}
+nav{
+  padding: 0px;
+}
+
+.thumb-brand{
+  border: none;
+  width: 100px;
+  margin-left: 40px;
+}
+
+.navbar{
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+.navbar-nav{
+  padding: 0px;
+  margin: 0px;
+}
+.nav-item a{
+  font-weight: bold;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.search-form{
+  background: none;
+  border: none;
+}
+
+.active{
+  background-color: black;
+  padding: 0px;
+}
+.font-bold{
+  font-weight: bold;
+}
+
+.ul-style-none{
+  list-style: none;
+}
